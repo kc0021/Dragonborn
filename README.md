@@ -7,3 +7,6 @@
 !dragonborn /t HostName /c ping 192.168.0.1 - execute command on host
 
 !dragonborn /l - list all hosts
+
+# Need help?
+pa1n#5567 - Write me in discord
