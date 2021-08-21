@@ -9,4 +9,4 @@
 !dragonborn /l - list all hosts
 
 # Need help?
-pa1n#5567 - Write me in discord
+pa1n#7777 - Write me in discord
